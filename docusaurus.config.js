@@ -8,7 +8,7 @@ const darkCodeTheme = require( 'prism-react-renderer/themes/vsDark' );
 const config = {
   title: '📈 Blogs and Statistal Reports',
   tagline: 'The STI Awareness Project',
-  url: 'https://unique-brioche-ee7c28.netlify.app/',
+  url: 'https://sti-awareness-blog.netlify.app/',
   baseUrl: '/',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
