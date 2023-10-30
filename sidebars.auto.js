@@ -34,7 +34,7 @@ module.exports = {
         "type": "category",
         "label": "Statistical Reports",
         "items": [
-            "Statistical Reports/what-is-sti"
+            "Statistical Reports/Gonorrhea-Dataset-Analysis-Report"
         ]
     },
     "recent",
