@@ -6,7 +6,7 @@ const darkCodeTheme = require( 'prism-react-renderer/themes/vsDark' );
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '📈 Blogs and Statistal Reports',
+  title: '📈 Blogs and Statistical Reports',
   tagline: 'The STI Awareness Project',
   url: 'https://sti-awareness-blog.netlify.app/',
   baseUrl: '/',
